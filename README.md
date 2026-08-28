@@ -160,7 +160,7 @@ Before trusting the gait math, it was checked against six concrete pass/fail cri
 - **Phase-correct foot timing** — diagonal pairs land and lift in sync, as the gait design intends ✅
 - **Symmetric leg motion** — all four legs produce identical angle profiles, just time-shifted ✅
 
-Validation was done two ways: a **MATLAB 3D stick-figure animation** (runs on base MATLAB or GNU Octave, no toolboxes needed) and a **9-panel validation plot** covering joint angles, foot paths, the gait contact diagram, and the stability polygon in one figure. The STEP assembly was also optionally run through **SimScale** for a browser-based rigid-body motion check with collision detection.
+Validation was done two ways: a **MATLAB 3D stick-figure animation** (runs on base MATLAB or GNU Octave, no toolboxes needed) and a **9-panel validation plot** covering joint angles, foot paths, the gait contact diagram, and the stability polygon in one figure.
 
 ---
 
