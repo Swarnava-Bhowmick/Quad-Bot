@@ -200,7 +200,6 @@ Being upfront about what this design *doesn't* do well — and how production qu
 | **FreeCAD 0.21** | 3D CAD modelling, assembly, STEP export |
 | **MATLAB R2023b** | Gait calculation, trajectory plotting, 3D animation |
 | **Python 3.11** (NumPy, Matplotlib, SciPy) | Cross-check of MATLAB results, plotting |
-| **SimScale** (free tier) | Cloud-based rigid-body motion simulation |
 
 ---
 
